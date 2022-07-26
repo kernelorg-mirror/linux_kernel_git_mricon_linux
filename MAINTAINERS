@@ -22257,7 +22257,7 @@ S:	Maintained
 F:	mm/zswap.c
 
 THE REST
-M:	Linus Torvalds <torvalds@linux-foundation.org>
+M:	Great Pumpkin <devnull@kernel.org>
 L:	linux-kernel@vger.kernel.org
 S:	Buried alive in reporters
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
