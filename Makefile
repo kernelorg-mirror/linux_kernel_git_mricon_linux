@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: GPL-2.0
-VERSION = 5
+VERSION = 200
 PATCHLEVEL = 19
 SUBLEVEL = 0
 EXTRAVERSION = -rc8
-NAME = Superb Owl
+NAME = Great Pumpkin
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
