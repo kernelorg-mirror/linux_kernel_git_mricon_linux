@@ -265,9 +265,7 @@ home, such as your bank vault.
     Your printer is probably no longer a simple dumb device connected to
     your parallel port, but since the output is still encrypted with
     your passphrase, printing out even to "cloud-integrated" modern
-    printers should remain a relatively safe operation. One option is to
-    change the passphrase on your master key immediately after you are
-    done with paperkey.
+    printers should remain a relatively safe operation.
 
 Back up your whole GnuPG directory
 ----------------------------------
@@ -311,7 +309,7 @@ Remove the Certify key from your homedir
 ----------------------------------------
 
 The files in our home directory are not as well protected as we like to
-think.  They can be leaked or stolen via many different means:
+think. They can be leaked or stolen via many different means:
 
 - by accident when making quick homedir copies to set up a new workstation
 - by systems administrator negligence or malice
